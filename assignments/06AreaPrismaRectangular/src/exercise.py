@@ -1,5 +1,10 @@
+# 06 Área de un Prisma Rectangular
+# Claudia Imazul Espinosa Amezcua
+# A01176716
+# TC1028.37 
+
 def area(base,altura):
-    return 
+    return base * altura
 
 def area_prisma(base,altura,profundidad):
     return area(base,altura)*2+area(altura,profundidad)*2+area(base,profundidad)*2

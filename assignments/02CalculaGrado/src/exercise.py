@@ -1,3 +1,8 @@
+# 02 Calcula Grado
+# Claudia Imazul Espinosa Amezcua
+# A01176716
+# TC1028.37 
+
 def calcula_grado(grado):
     if grado < 0.0 or grado > 1.0:
         nota = "score incorrecto"

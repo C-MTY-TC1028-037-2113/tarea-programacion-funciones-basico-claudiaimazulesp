@@ -1,4 +1,12 @@
+# 07 Volúmen de un Prisma Rectangular
+# Claudia Imazul Espinosa Amezcua
+# A01176716
+# TC1028.37 
+
 # Escribe aquí tus funciones...
+
+def volumen_prisma(x, y, z):
+    return x * y * z
 
 def main():
     #escribe tu código abajo de esta línea

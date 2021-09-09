@@ -1,3 +1,8 @@
+# 09 Área de un Rectángulo
+# Claudia Imazul Espinosa Amezcua
+# A01176716
+# TC1028.37 
+
 def area(base,altura):
     return base*altura
 
